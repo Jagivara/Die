@@ -1,0 +1,47 @@
+body {
+    background-size: 75%;
+    background-image: url(Road.png);
+    overflow: hidden;
+    image-rendering: pixelated;
+}
+
+.Nope {
+    image-rendering: pixelated;
+    width: 100%;
+    height: 100%;
+}
+
+.img{
+    image-rendering: pixelated;
+    visibility: hidden;
+}
+
+.Ninja{
+    image-rendering: pixelated;
+    visibility: hidden;
+}
+
+.Ninja_left{
+    image-rendering: pixelated;
+    visibility: hidden;
+}
+
+.Bomb_Right{
+    image-rendering: pixelated;
+    visibility: hidden;
+}
+
+.Bomb_left{
+    image-rendering: pixelated;
+    visibility: hidden;
+}
+
+.Fogt{
+    image-rendering: pixelated;
+    visibility: hidden;
+}
+
+.Tron{
+    image-rendering: pixelated;
+    visibility: hidden;
+}
